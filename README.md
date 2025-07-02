@@ -1,1 +1,3 @@
-# data-science-reference
+# Data Science Reference
+
+## Repository Structure
