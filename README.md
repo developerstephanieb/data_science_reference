@@ -1,4 +1,4 @@
-# Data Science Reference
+# Data Science
 
 ## Repository Structure
 
